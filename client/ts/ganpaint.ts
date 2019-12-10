@@ -79,7 +79,8 @@ const demo = {
 
 }
 
-const isDemo = !URLHandler.parameters['expert'];
+//const isDemo = !URLHandler.parameters['expert'];
+const isDemo = true;
 if (isDemo) {
     const demo_rankings = require("../demo/rankings_demo_iou_short.json");
     demo.rankings = Promise.resolve(demo_rankings);
