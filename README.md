@@ -19,7 +19,7 @@ Much of the code in this project was borrowed from the following sources.
 
 All files except the ones listed below are from [https://github.com/CSAILVision/gandissect](https://github.com/CSAILVision/gandissect).
 
-The following files are from [https:(https://github.com/llSourcell/Progressive_GANs](https://github.com/llSourcell/Progressive_GANs):
+The following files are from [https://github.com/llSourcell/Progressive_GANs](https://github.com/llSourcell/Progressive_GANs):
 - netdissect/dataset.py
 - netdissect/legacy.py
 - netdissect/misc.py
