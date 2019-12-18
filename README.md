@@ -29,7 +29,7 @@ The following files are from [https:(https://github.com/llSourcell/Progressive_G
 The following file is from [https://github.com/NVlabs/stylegan/blob/master/config.py](https://github.com/NVlabs/stylegan/blob/master/config.py):
 - netdissect/config.py
 
-The following file is originally from [https://gandissect.csail.mit.edu](https://gandissect.csail.mit.edu), after which I made some modifications.
+The following file is originally from [https://gandissect.csail.mit.edu/code/convert_to_pytorch.py](https://gandissect.csail.mit.edu/code/convert_to_pytorch.py), after which I made some modifications.
 - netdissect/translate.py
 
 ## Citations
